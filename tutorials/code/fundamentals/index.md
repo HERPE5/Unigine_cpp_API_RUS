@@ -23,20 +23,10 @@
 
 - [Thread Safety](../../code/fundamentals/thread_safety/index.md)
 
-- [Matrix Transformations (CS)](../../code/fundamentals/matrix_transformations/index_cs.md)
-
 - [Matrix Transformations (CPP)](../../code/fundamentals/matrix_transformations/index_cpp.md)
-
-- [Matrix Transformations (USC)](../../code/fundamentals/matrix_transformations/index_usc.md)
 
 - [Camera Matrices](../../code/fundamentals/matrices/index.md)
 
-- [Event Handling (CS)](../../code/fundamentals/events/index_cs.md)
-
 - [Event Handling (CPP)](../../code/fundamentals/events/index_cpp.md)
-
-- [Event Handling Callbacks (USC)](../../code/fundamentals/callbacks/index_usc.md)
-
-- [Event Handling Callbacks (CS)](../../code/fundamentals/callbacks/index_cs.md)
 
 - [Event Handling Callbacks (CPP)](../../code/fundamentals/callbacks/index_cpp.md)
